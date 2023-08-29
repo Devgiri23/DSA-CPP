@@ -1,0 +1,1 @@
+../build-Debug/LinkedList-5/main.cpp.o: main.cpp

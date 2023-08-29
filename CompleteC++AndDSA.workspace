@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CompleteC++AndDSA" Database="" Version="10000">
+  <Project Name="First" Path="First/First.project" Active="No"/>
+  <Project Name="DatattypesAndVariables" Path="DatattypesAndVariables/DatattypesAndVariables.project" Active="No"/>
+  <Project Name="Typecasting" Path="Typecasting/Typecasting.project" Active="No"/>
+  <Project Name="Operators" Path="Operators/Operators.project" Active="No"/>
+  <Project Name="Conditions" Path="Conditions/Conditions.project" Active="No"/>
+  <Project Name="Cinfetaure" Path="Cinfetaure/Cinfetaure.project" Active="No"/>
+  <Project Name="Question1" Path="Question1/Question1.project" Active="No"/>
+  <Project Name="Whileloop" Path="Whileloop/Whileloop.project" Active="No"/>
+  <Project Name="WhileQuestions" Path="WhileQuestions/WhileQuestions.project" Active="No"/>
+  <Project Name="PatternQuestion" Path="PatternQuestion/PatternQuestion.project" Active="No"/>
+  <Project Name="Bitwiseoperator" Path="Bitwiseoperator/Bitwiseoperator.project" Active="No"/>
+  <Project Name="ForLoop" Path="ForLoop/ForLoop.project" Active="No"/>
+  <Project Name="ForQuestions" Path="ForQuestions/ForQuestions.project" Active="No"/>
+  <Project Name="Questionslec5" Path="Questionslec5/Questionslec5.project" Active="No"/>
+  <Project Name="DecimalToBinary" Path="DecimalToBinary/DecimalToBinary.project" Active="Yes"/>
+  <Project Name="BinaryToDecimal" Path="BinaryToDecimal/BinaryToDecimal.project" Active="No"/>
+  <Project Name="LeetcodeQuestionsLec7" Path="LeetcodeQuestionsLec7/LeetcodeQuestionsLec7.project" Active="No"/>
+  <Project Name="SwitchStatement" Path="SwitchStatement/SwitchStatement.project" Active="No"/>
+  <Project Name="CalculatorSwitchlec8" Path="CalculatorSwitchlec8/CalculatorSwitchlec8.project" Active="No"/>
+  <Project Name="HomeworkLec8" Path="HomeworkLec8/HomeworkLec8.project" Active="No"/>
+  <Project Name="Functions" Path="Functions/Functions.project" Active="No"/>
+  <Project Name="oDDeVEN" Path="oDDeVEN/oDDeVEN.project" Active="No"/>
+  <Project Name="Functions_Questions" Path="Functions_Questions/Functions_Questions.project" Active="No"/>
+  <Project Name="PassByValueFunction" Path="PassByValueFunction/PassByValueFunction.project" Active="No"/>
+  <Project Name="Array" Path="Array/Array.project" Active="No"/>
+  <Project Name="ArrayFunction" Path="ArrayFunction/ArrayFunction.project" Active="No"/>
+  <Project Name="ArraySize" Path="ArraySize/ArraySize.project" Active="No"/>
+  <Project Name="ArrayMaxMinQues" Path="ArrayMaxMinQues/ArrayMaxMinQues.project" Active="No"/>
+  <Project Name="ArrayLinearSearch" Path="LinearsearchArray/LinearsearchArray.project" Active="No"/>
+  <Project Name="ArrayReversing" Path="ArrayReversing/ArrayReversing.project" Active="No"/>
+  <Project Name="LeetcodeQuesLec10" Path="LeetcodeQuesLec10/LeetcodeQuesLec10.project" Active="No"/>
+  <Project Name="BinarySearch" Path="BinarySearch/BinarySearch.project" Active="No"/>
+  <Project Name="BinarySearchQuesLec13" Path="BinarySearchQuesLec13/BinarySearchQuesLec13.project" Active="No"/>
+  <Project Name="BinarySearchQuesLec14" Path="BinarySearchQuesLec14/BinarySearchQuesLec14.project" Active="No"/>
+  <Project Name="BinarySearchBookAllocationProblem" Path="BinarySearchBookAllocationProblem/BinarySearchBookAllocationProblem.project" Active="No"/>
+  <Project Name="BinarySearchAggressiveCows" Path="BinarySearchAggressiveCows/BinarySearchAggressiveCows.project" Active="No"/>
+  <Project Name="SelectionSort" Path="SelectionSort/SelectionSort.project" Active="No"/>
+  <Project Name="BubbleSort" Path="BubbleSort/BubbleSort.project" Active="No"/>
+  <Project Name="InsertionSort" Path="InsertionSort/InsertionSort.project" Active="No"/>
+  <Project Name="Lec20Ques" Path="Lec20Ques/Lec20Ques.project" Active="No"/>
+  <Project Name="Lec21Ques" Path="Lec21Ques/Lec21Ques.project" Active="No"/>
+  <Project Name="CharacterArrayAndStrings" Path="CharacterArrayAndStrings/CharacterArrayAndStrings.project" Active="No"/>
+  <Project Name="Palindrome" Path="Palindrome/Palindrome.project" Active="No"/>
+  <Project Name="AMCAT" Path="AMCAT/AMCAT.project" Active="No"/>
+  <Project Name="Strings" Path="Strings/Strings.project" Active="No"/>
+  <Project Name="2-DArrays" Path="2-DArrays/2-DArrays.project" Active="No"/>
+  <Project Name="queslove" Path="queslove/queslove.project" Active="No"/>
+  <Project Name="2-DArrayQuestion" Path="2-DArrayQuestion/2-DArrayQuestion.project" Active="No"/>
+  <Project Name="Pointers" Path="Pointers/Pointers.project" Active="No"/>
+  <Project Name="DoublePointers" Path="DoublePointers/DoublePointers.project" Active="No"/>
+  <Project Name="RefrenceVariable" Path="RefrenceVariable/RefrenceVariable.project" Active="No"/>
+  <Project Name="2DarrayDynamicAlloctaion" Path="2DarrayDynamicAlloctaion/2DarrayDynamicAlloctaion.project" Active="No"/>
+  <Project Name="RevisionUptoTimeComplexity" Path="RevisionUptoTimeComplexity/RevisionUptoTimeComplexity.project" Active="No"/>
+  <Project Name="Macro" Path="Macro/Macro.project" Active="No"/>
+  <Project Name="GlobalVariables" Path="gLOBALvARIABLES/gLOBALvARIABLES.project" Active="No"/>
+  <Project Name="Recursion" Path="rECURSION/rECURSION.project" Active="No"/>
+  <Project Name="MergreSort" Path="MergreSort/MergreSort.project" Active="No"/>
+  <Project Name="QuickSort" Path="QuickSort/QuickSort.project" Active="No"/>
+  <Project Name="leetcode" Path="leetcode/leetcode.project" Active="No"/>
+  <Project Name="RecursionPhoneKeywordProblem" Path="RecursionPhoneKeywordProblem/RecursionPhoneKeywordProblem.project" Active="No"/>
+  <Project Name="DSA-450" Path="DSA-450/DSA-450.project" Active="No"/>
+  <Project Name="Revision-40Lec" Path="Revision-40Lec/Revision-40Lec.project" Active="No"/>
+  <Project Name="RecursionRevision" Path="RecursionRevision/RecursionRevision.project" Active="No"/>
+  <Project Name="LinkedList-1" Path="LinkedList-1/LinkedList-1.project" Active="No"/>
+  <Project Name="LinkedList-2" Path="LinkedList-2/LinkedList-2.project" Active="No"/>
+  <Project Name="LinkedList-3" Path="LinkedList-3/LinkedList-3.project" Active="No"/>
+  <Project Name="LinkedList-4" Path="LinkedList-4/LinkedList-4.project" Active="No"/>
+  <Project Name="LinkedList-5" Path="LinkedList-5/LinkedList-5.project" Active="No"/>
+  <Project Name="LinkedList-6" Path="LinkedList-6/LinkedList-6.project" Active="No"/>
+  <Project Name="DoublyLinkedList-1" Path="DoublyLinkedList-1/DoublyLinkedList-1.project" Active="No"/>
+  <Project Name="DoublyLinkedList-2" Path="DoublyLinkedList-2/DoublyLinkedList-2.project" Active="No"/>
+  <Project Name="DoublyLinkedList-3" Path="DoublyLinkedList-3/DoublyLinkedList-3.project" Active="No"/>
+  <Project Name="DoublyLinkedList-4" Path="DoublyLinkedList-4/DoublyLinkedList-4.project" Active="No"/>
+  <Project Name="DoublyLinkedList-5" Path="DoublyLinkedList-5/DoublyLinkedList-5.project" Active="No"/>
+  <Project Name="DoublyLinkedList-6" Path="DoublyLinkedList-6/DoublyLinkedList-6.project" Active="No"/>
+  <Project Name="CircularLinkedList-1" Path="CircularLinkedList-1/CircularLinkedList-1.project" Active="No"/>
+  <Project Name="CircularLinkedList-2" Path="CircularLinkedList-2/CircularLinkedList-2.project" Active="No"/>
+  <Project Name="LinkedListQuestionLecture-45" Path="LinkedListQuestionLecture-45/LinkedListQuestionLecture-45.project" Active="No"/>
+  <Project Name="LinkedListQuestions-Lecture46" Path="LinkedListQuestions-Lecture46/LinkedListQuestions-Lecture46.project" Active="No"/>
+  <Project Name="LinkedListQuestion-Lecture47" Path="LinkedListQuestion-Lecture47/LinkedListQuestion-Lecture47.project" Active="No"/>
+  <Project Name="LinkedLIstQuestionLecture-48" Path="LinkedLIstQuestionLecture-48/LinkedLIstQuestionLecture-48.project" Active="No"/>
+  <Project Name="Stack-1" Path="Stacks/Stacks.project" Active="No"/>
+  <Project Name="Stack-2" Path="Stack-2/Stack-2.project" Active="No"/>
+  <Project Name="Stack-3" Path="Stack-3/Stack-3.project" Active="No"/>
+  <Project Name="Stack-4" Path="Stack-4/Stack-4.project" Active="No"/>
+  <Project Name="Stack-5" Path="Stack-5/Stack-5.project" Active="No"/>
+  <Project Name="Queue-1" Path="Queue-1/Queue-1.project" Active="No"/>
+  <Project Name="Queue-2" Path="Queue-2/Queue-2.project" Active="No"/>
+  <Project Name="BinaryTree-1" Path="BinaryTree-1/BinaryTree-1.project" Active="No"/>
+  <Project Name="BinaryTree-2" Path="BinaryTree-2/BinaryTree-2.project" Active="No"/>
+  <Project Name="BinaryTree-3" Path="BinaryTree-3/BinaryTree-3.project" Active="No"/>
+  <Project Name="BinaryTree-4" Path="BinaryTree-4/BinaryTree-4.project" Active="No"/>
+  <Project Name="BinaryTree-5" Path="BinaryTree-5/BinaryTree-5.project" Active="No"/>
+  <Project Name="BinaryTree-6" Path="BinaryTree-6/BinaryTree-6.project" Active="No"/>
+  <Project Name="BinarySearchTree" Path="BinarySearchTree/BinarySearchTree.project" Active="No"/>
+  <Project Name="BinarySearchTree-1" Path="BinarySearchTree-1/BinarySearchTree-1.project" Active="No"/>
+  <Project Name="SudokuSolver" Path="SudokuSolver/SudokuSolver.project" Active="No"/>
+  <Project Name="SudokuSolver" Path="SudokuSolver/SudokuSolver.project" Active="No"/>
+  <Project Name="HashMapQuestions" Path="HashMapQuestions/HashMapQuestions.project" Active="No"/>
+  <Project Name="TrieItsDataSrtructureLecture-1" Path="TrieItsDataSrtructureLecture-1/TrieItsDataSrtructureLecture-1.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="First" ConfigName="Debug"/>
+      <Project Name="DatattypesAndVariables" ConfigName="Debug"/>
+      <Project Name="Typecasting" ConfigName="Debug"/>
+      <Project Name="Operators" ConfigName="Debug"/>
+      <Project Name="Conditions" ConfigName="Debug"/>
+      <Project Name="Cinfetaure" ConfigName="Debug"/>
+      <Project Name="Question1" ConfigName="Debug"/>
+      <Project Name="Whileloop" ConfigName="Debug"/>
+      <Project Name="WhileQuestions" ConfigName="Debug"/>
+      <Project Name="PatternQuestion" ConfigName="Debug"/>
+      <Project Name="Bitwiseoperator" ConfigName="Debug"/>
+      <Project Name="ForLoop" ConfigName="Debug"/>
+      <Project Name="ForQuestions" ConfigName="Debug"/>
+      <Project Name="Questionslec5" ConfigName="Debug"/>
+      <Project Name="DecimalToBinary" ConfigName="Debug"/>
+      <Project Name="BinaryToDecimal" ConfigName="Debug"/>
+      <Project Name="LeetcodeQuestionsLec7" ConfigName="Debug"/>
+      <Project Name="SwitchStatement" ConfigName="Debug"/>
+      <Project Name="CalculatorSwitchlec8" ConfigName="Debug"/>
+      <Project Name="HomeworkLec8" ConfigName="Debug"/>
+      <Project Name="Functions" ConfigName="Debug"/>
+      <Project Name="oDDeVEN" ConfigName="Debug"/>
+      <Project Name="Functions_Questions" ConfigName="Debug"/>
+      <Project Name="PassByValueFunction" ConfigName="Debug"/>
+      <Project Name="Array" ConfigName="Debug"/>
+      <Project Name="ArrayFunction" ConfigName="Debug"/>
+      <Project Name="ArraySize" ConfigName="Debug"/>
+      <Project Name="ArrayMaxMinQues" ConfigName="Debug"/>
+      <Project Name="ArrayLinearSearch" ConfigName="Debug"/>
+      <Project Name="ArrayReversing" ConfigName="Debug"/>
+      <Project Name="LeetcodeQuesLec10" ConfigName="Debug"/>
+      <Project Name="BinarySearch" ConfigName="Debug"/>
+      <Project Name="BinarySearchQuesLec13" ConfigName="Debug"/>
+      <Project Name="BinarySearchQuesLec14" ConfigName="Debug"/>
+      <Project Name="BinarySearchBookAllocationProblem" ConfigName="Debug"/>
+      <Project Name="BinarySearchAggressiveCows" ConfigName="Debug"/>
+      <Project Name="SelectionSort" ConfigName="Debug"/>
+      <Project Name="BubbleSort" ConfigName="Debug"/>
+      <Project Name="InsertionSort" ConfigName="Debug"/>
+      <Project Name="Lec20Ques" ConfigName="Debug"/>
+      <Project Name="Lec21Ques" ConfigName="Debug"/>
+      <Project Name="CharacterArrayAndStrings" ConfigName="Debug"/>
+      <Project Name="Palindrome" ConfigName="Debug"/>
+      <Project Name="AMCAT" ConfigName="Debug"/>
+      <Project Name="Strings" ConfigName="Debug"/>
+      <Project Name="2-DArrays" ConfigName="Debug"/>
+      <Project Name="queslove" ConfigName="Debug"/>
+      <Project Name="2-DArrayQuestion" ConfigName="Debug"/>
+      <Project Name="Pointers" ConfigName="Debug"/>
+      <Project Name="DoublePointers" ConfigName="Debug"/>
+      <Project Name="RefrenceVariable" ConfigName="Debug"/>
+      <Project Name="2DarrayDynamicAlloctaion" ConfigName="Debug"/>
+      <Project Name="RevisionUptoTimeComplexity" ConfigName="Debug"/>
+      <Project Name="Macro" ConfigName="Debug"/>
+      <Project Name="GlobalVariables" ConfigName="Debug"/>
+      <Project Name="Recursion" ConfigName="Debug"/>
+      <Project Name="MergreSort" ConfigName="Debug"/>
+      <Project Name="QuickSort" ConfigName="Debug"/>
+      <Project Name="leetcode" ConfigName="Debug"/>
+      <Project Name="RecursionPhoneKeywordProblem" ConfigName="Debug"/>
+      <Project Name="DSA-450" ConfigName="Debug"/>
+      <Project Name="Revision-40Lec" ConfigName="Debug"/>
+      <Project Name="RecursionRevision" ConfigName="Debug"/>
+      <Project Name="LinkedList-1" ConfigName="Debug"/>
+      <Project Name="LinkedList-2" ConfigName="Debug"/>
+      <Project Name="LinkedList-3" ConfigName="Debug"/>
+      <Project Name="LinkedList-4" ConfigName="Debug"/>
+      <Project Name="LinkedList-5" ConfigName="Debug"/>
+      <Project Name="LinkedList-6" ConfigName="Debug"/>
+      <Project Name="DoublyLinkedList-1" ConfigName="Debug"/>
+      <Project Name="DoublyLinkedList-2" ConfigName="Debug"/>
+      <Project Name="DoublyLinkedList-3" ConfigName="Debug"/>
+      <Project Name="DoublyLinkedList-4" ConfigName="Debug"/>
+      <Project Name="DoublyLinkedList-5" ConfigName="Debug"/>
+      <Project Name="DoublyLinkedList-6" ConfigName="Debug"/>
+      <Project Name="CircularLinkedList-1" ConfigName="Debug"/>
+      <Project Name="CircularLinkedList-2" ConfigName="Debug"/>
+      <Project Name="LinkedListQuestionLecture-45" ConfigName="Debug"/>
+      <Project Name="LinkedListQuestions-Lecture46" ConfigName="Debug"/>
+      <Project Name="LinkedListQuestion-Lecture47" ConfigName="Debug"/>
+      <Project Name="LinkedLIstQuestionLecture-48" ConfigName="Debug"/>
+      <Project Name="Stack-1" ConfigName="Debug"/>
+      <Project Name="Stack-2" ConfigName="Debug"/>
+      <Project Name="Stack-3" ConfigName="Debug"/>
+      <Project Name="Stack-4" ConfigName="Debug"/>
+      <Project Name="Stack-5" ConfigName="Debug"/>
+      <Project Name="Queue-1" ConfigName="Debug"/>
+      <Project Name="Queue-2" ConfigName="Debug"/>
+      <Project Name="BinaryTree-1" ConfigName="Debug"/>
+      <Project Name="BinaryTree-2" ConfigName="Debug"/>
+      <Project Name="BinaryTree-3" ConfigName="Debug"/>
+      <Project Name="BinaryTree-4" ConfigName="Debug"/>
+      <Project Name="BinaryTree-5" ConfigName="Debug"/>
+      <Project Name="BinaryTree-6" ConfigName="Debug"/>
+      <Project Name="BinarySearchTree" ConfigName="Debug"/>
+      <Project Name="BinarySearchTree-1" ConfigName="Debug"/>
+      <Project Name="SudokuSolver" ConfigName="Debug"/>
+      <Project Name="SudokuSolver" ConfigName="Debug"/>
+      <Project Name="HashMapQuestions" ConfigName="Debug"/>
+      <Project Name="TrieItsDataSrtructureLecture-1" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="First" ConfigName="Release"/>
+      <Project Name="DatattypesAndVariables" ConfigName="Release"/>
+      <Project Name="Typecasting" ConfigName="Release"/>
+      <Project Name="Operators" ConfigName="Release"/>
+      <Project Name="Conditions" ConfigName="Release"/>
+      <Project Name="Cinfetaure" ConfigName="Release"/>
+      <Project Name="Question1" ConfigName="Release"/>
+      <Project Name="Whileloop" ConfigName="Release"/>
+      <Project Name="WhileQuestions" ConfigName="Release"/>
+      <Project Name="PatternQuestion" ConfigName="Release"/>
+      <Project Name="Bitwiseoperator" ConfigName="Release"/>
+      <Project Name="ForLoop" ConfigName="Release"/>
+      <Project Name="ForQuestions" ConfigName="Release"/>
+      <Project Name="Questionslec5" ConfigName="Release"/>
+      <Project Name="DecimalToBinary" ConfigName="Release"/>
+      <Project Name="BinaryToDecimal" ConfigName="Release"/>
+      <Project Name="LeetcodeQuestionsLec7" ConfigName="Release"/>
+      <Project Name="SwitchStatement" ConfigName="Release"/>
+      <Project Name="CalculatorSwitchlec8" ConfigName="Release"/>
+      <Project Name="HomeworkLec8" ConfigName="Release"/>
+      <Project Name="Functions" ConfigName="Release"/>
+      <Project Name="oDDeVEN" ConfigName="Release"/>
+      <Project Name="Functions_Questions" ConfigName="Release"/>
+      <Project Name="PassByValueFunction" ConfigName="Release"/>
+      <Project Name="Array" ConfigName="Release"/>
+      <Project Name="ArrayFunction" ConfigName="Release"/>
+      <Project Name="ArraySize" ConfigName="Release"/>
+      <Project Name="ArrayMaxMinQues" ConfigName="Release"/>
+      <Project Name="ArrayLinearSearch" ConfigName="Release"/>
+      <Project Name="ArrayReversing" ConfigName="Release"/>
+      <Project Name="LeetcodeQuesLec10" ConfigName="Release"/>
+      <Project Name="BinarySearch" ConfigName="Release"/>
+      <Project Name="BinarySearchQuesLec13" ConfigName="Release"/>
+      <Project Name="BinarySearchQuesLec14" ConfigName="Release"/>
+      <Project Name="BinarySearchBookAllocationProblem" ConfigName="Release"/>
+      <Project Name="BinarySearchAggressiveCows" ConfigName="Release"/>
+      <Project Name="SelectionSort" ConfigName="Release"/>
+      <Project Name="BubbleSort" ConfigName="Release"/>
+      <Project Name="InsertionSort" ConfigName="Release"/>
+      <Project Name="Lec20Ques" ConfigName="Release"/>
+      <Project Name="Lec21Ques" ConfigName="Release"/>
+      <Project Name="CharacterArrayAndStrings" ConfigName="Release"/>
+      <Project Name="Palindrome" ConfigName="Release"/>
+      <Project Name="AMCAT" ConfigName="Release"/>
+      <Project Name="Strings" ConfigName="Release"/>
+      <Project Name="2-DArrays" ConfigName="Release"/>
+      <Project Name="queslove" ConfigName="Release"/>
+      <Project Name="2-DArrayQuestion" ConfigName="Release"/>
+      <Project Name="Pointers" ConfigName="Release"/>
+      <Project Name="DoublePointers" ConfigName="Release"/>
+      <Project Name="RefrenceVariable" ConfigName="Release"/>
+      <Project Name="2DarrayDynamicAlloctaion" ConfigName="Release"/>
+      <Project Name="RevisionUptoTimeComplexity" ConfigName="Release"/>
+      <Project Name="Macro" ConfigName="Release"/>
+      <Project Name="GlobalVariables" ConfigName="Release"/>
+      <Project Name="Recursion" ConfigName="Release"/>
+      <Project Name="MergreSort" ConfigName="Release"/>
+      <Project Name="QuickSort" ConfigName="Release"/>
+      <Project Name="leetcode" ConfigName="Release"/>
+      <Project Name="RecursionPhoneKeywordProblem" ConfigName="Release"/>
+      <Project Name="DSA-450" ConfigName="Release"/>
+      <Project Name="Revision-40Lec" ConfigName="Release"/>
+      <Project Name="RecursionRevision" ConfigName="Release"/>
+      <Project Name="LinkedList-1" ConfigName="Release"/>
+      <Project Name="LinkedList-2" ConfigName="Release"/>
+      <Project Name="LinkedList-3" ConfigName="Release"/>
+      <Project Name="LinkedList-4" ConfigName="Release"/>
+      <Project Name="LinkedList-5" ConfigName="Release"/>
+      <Project Name="LinkedList-6" ConfigName="Release"/>
+      <Project Name="DoublyLinkedList-1" ConfigName="Release"/>
+      <Project Name="DoublyLinkedList-2" ConfigName="Release"/>
+      <Project Name="DoublyLinkedList-3" ConfigName="Release"/>
+      <Project Name="DoublyLinkedList-4" ConfigName="Release"/>
+      <Project Name="DoublyLinkedList-5" ConfigName="Release"/>
+      <Project Name="DoublyLinkedList-6" ConfigName="Release"/>
+      <Project Name="CircularLinkedList-1" ConfigName="Release"/>
+      <Project Name="CircularLinkedList-2" ConfigName="Release"/>
+      <Project Name="LinkedListQuestionLecture-45" ConfigName="Release"/>
+      <Project Name="LinkedListQuestions-Lecture46" ConfigName="Release"/>
+      <Project Name="LinkedListQuestion-Lecture47" ConfigName="Release"/>
+      <Project Name="LinkedLIstQuestionLecture-48" ConfigName="Release"/>
+      <Project Name="Stack-1" ConfigName="Release"/>
+      <Project Name="Stack-2" ConfigName="Release"/>
+      <Project Name="Stack-3" ConfigName="Release"/>
+      <Project Name="Stack-4" ConfigName="Release"/>
+      <Project Name="Stack-5" ConfigName="Release"/>
+      <Project Name="Queue-1" ConfigName="Release"/>
+      <Project Name="Queue-2" ConfigName="Release"/>
+      <Project Name="BinaryTree-1" ConfigName="Release"/>
+      <Project Name="BinaryTree-2" ConfigName="Release"/>
+      <Project Name="BinaryTree-3" ConfigName="Release"/>
+      <Project Name="BinaryTree-4" ConfigName="Release"/>
+      <Project Name="BinaryTree-5" ConfigName="Release"/>
+      <Project Name="BinaryTree-6" ConfigName="Release"/>
+      <Project Name="BinarySearchTree" ConfigName="Release"/>
+      <Project Name="BinarySearchTree-1" ConfigName="Release"/>
+      <Project Name="SudokuSolver" ConfigName="Release"/>
+      <Project Name="SudokuSolver" ConfigName="Release"/>
+      <Project Name="HashMapQuestions" ConfigName="Release"/>
+      <Project Name="TrieItsDataSrtructureLecture-1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
